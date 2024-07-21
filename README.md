@@ -2,7 +2,7 @@
 # [Bitcoin Flashing Software v7.0.0](https://t.me/czarbit)
 This Version of the bitcoin flashing Software allows Bitcoin flash into any bitcoin wallet and also allows a flash wallet stay of 30-60days walllet stay
 
-# Here are the features of the bitcoin flashing software v7.2.1 core network
+# Here are the features of the bitcoin flashing software v7.0.0 core network
 
 📌Send transactions with confirmation
 
