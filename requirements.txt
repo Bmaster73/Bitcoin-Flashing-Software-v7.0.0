@@ -1,0 +1,3 @@
+ distutils.core 
+ distutils.sysconfig
+ py2exe
